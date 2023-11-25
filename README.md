@@ -1,5 +1,5 @@
 # XAI
-Explainable Artificial Intelligence in Design
+Explainable Outcomes in Design
 
  <img width="960" alt="image" src="https://github.com/rishwanth2809/XAI/assets/67328040/d9e1f287-70a9-4378-b63d-3def1d680d7c">
 
